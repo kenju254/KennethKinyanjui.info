@@ -1,0 +1,6 @@
+#This are config files for the Pelican blog that need not be tracked
+pelicanconf.py
+publishconf.py
+
+#Python compiled files 
+*.pyc
