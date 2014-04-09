@@ -7,14 +7,14 @@ Author: Kenneth Kinyanjui
 Summary: Just a simple introduction of who I am 
 
 
-Hi I'm Kenneth Kinyanjui , on the web I am kenju254 but my friends call me Kenju.
+Hi I'm Kenneth Kinyanjui , thanks for stopping by. On the web I am kenju254 but my friends call me Kenju.
 You can just call me Kenju....
 
 
 I know C/C++ , Java , VB.NET and I code in Python daily. I do web applications mostly, I tend to use
 Django and a bit of webapp2(GAE). I am curious to learn Flask ,Pyramid and Turbogears. 
 
-I am looking forward to being a vim master in the next 6 months, I use Ubuntu(13.10) for my development 
+I am looking forward to being a emacs master in the next 6 months, I use Ubuntu(13.10) for my development 
 environment and I am a supporter FOSS. You can find me on this:
 
 1. [Github](http://github.com/kenju254)
