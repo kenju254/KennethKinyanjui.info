@@ -17,7 +17,7 @@ SECTIONS = [('Blog', 'index.html'),
            ('Archive', 'archives.html'),
            ('Tags', 'tags.html'),
            ('About', 'pages/about-me.html'),
-           ('Projects', 'pages/projects.html')]
+           ('Books', 'pages/books.html')]
 
 
 DEFAULT_CATEGORY = 'Uncategorized'
