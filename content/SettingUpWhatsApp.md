@@ -9,18 +9,18 @@ Author: Kenneth Kinyanjui
 ## WhatsApp on your terminal
 
 
-Two weeks ago I was using my dear [S3 mini]() but the unfortunate happended and it started restarting itself. Common 
-problem with this phone model. So now its with Samsung hoping for a quick recovery. Unfortunately, this is the second time,
+Two weeks ago I was using my dear [S3 mini](http://www.samsung.com/uk/consumer/mobile-devices/smartphones/android/GT-I8190RWABTU) but the unfortunate happended and it started restarting itself. Common 
+problem with this phone model. So I took it to Samsung, hoping for a quick recovery. Unfortunately, this is the second time,
 and I don't want any more Samsung products, especially after the experience with my S3 Mini.
 
 With this situation, I had no other option but to go back to the only phone that has never let me down. Always been there
-when times were hard and 2 months ago it turned 5. My [Nokia 2330c-2](). But apparently, I since I need a "smarter" phone, I 
+when times were hard and 2 months ago it turned 5. My [Nokia 2330c-2](http://www.gsmarena.com/nokia_2330_classic-2570.php). But apparently, I need a "smarter" phone, I 
 borrowed my Mom's [Nokia Asha 200]() , My main goal at least to get going with the trend Whatsapp. Everyone is using Whatsapp 
 and its cheap to communicate using it. Groups are fun and its easier to talk to people on Whatsapp.
 
-Unfortuantely, there is no WhatsApp support for the Nokia Asha 200. So what next? I don't want to be disconnected in this 2 weeks.
-I am sure you can see my situation. So I "Google" around and stumble on [OpenWhatsapp]() which happens to be a project that was 
-opening up WhatsApp with their API. It is powered by [Yowsup]() which is written in Python.
+Unfortuantely, there is no WhatsApp support for the Nokia Asha 200. So what next? I don't want to be disconnected in the next couple of weeks.
+I am sure you can picture this situation. So I "Googled" around and stumbled upon [OpenWhatsapp](http://openwhatsapp.org/) which happens to be a project that was 
+opening up WhatsApp with their API. It is powered by [Yowsup](https://github.com/tgalal/yowsup) which is written in Python.
 
 ##Yowsup
 
@@ -31,11 +31,11 @@ This wonderful platform opened up with a couple of features:
 3. The Documentation
 
 
-What caught my attention was [Yowsup-cli]() which is the command-line front-end that allows you to jump into using Whatsapp
+What caught my attention was [Yowsup-cli](https://github.com/tgalal/yowsup/wiki/yowsup-cli) which is the command-line front-end that allows you to jump into using Whatsapp
 service directly from the terminal. So yes if you are not afraid of the terminal then you will get your hands dirty with this on
 the fly. 
 
-With the current documentation, it might be a bit tricky t get going, so I will try to make it simple for you to set up the 
+With the current documentation, it might be a bit tricky to get going, so I will try to make it simple for you to set up the 
 yowsup-cli on your terminal and start chatting with your friends if you don't have WhatsApp installed.
 
 
