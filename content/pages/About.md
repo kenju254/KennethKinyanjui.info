@@ -7,6 +7,8 @@ Author: Kenneth Kinyanjui
 Summary: Just a simple introduction of who I am 
 
 
+![Personal Photo](/images/kenneth.png)
+
 Hi I'm Kenneth Kinyanjui , thanks for stopping by. On the web I am kenju254 but my friends call me Kenju.
 You can just call me Kenju....
 
@@ -31,7 +33,7 @@ team.
 
 I am not the avid reader but I started picking along, after a being inspired to read 
 [The Outliers](http://en.wikipedia.org/wiki/Outliers_(book)) by [Nickson Kaigi](http://twitter.com/nickaigi
-) and now am on my 3rd book. Follow my book collection on [Goodreads](http://goodreads.com/kenju254) Reading 
+) and now am on my 3rd book. Follow my book collection on [Goodreads](https://www.goodreads.com/user/show/17501662-kenneth-kinyanjui) Reading 
 is good and I am liking it so far, learning a lot of new stuff.
 
 
