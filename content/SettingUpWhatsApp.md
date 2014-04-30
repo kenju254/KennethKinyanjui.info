@@ -15,7 +15,7 @@ and I don't want any more Samsung products, especially after the experience with
 
 With this situation, I had no other option but to go back to the only phone that has never let me down. Always been there
 when times were hard and 2 months ago it turned 5. My [Nokia 2330c-2](http://www.gsmarena.com/nokia_2330_classic-2570.php). But apparently, I need a "smarter" phone, I 
-borrowed my Mom's [Nokia Asha 200]() , My main goal at least to get going with the trend Whatsapp. Everyone is using Whatsapp 
+borrowed my Mom's [Nokia Asha 200](http://www.gsmarena.com/nokia_asha_200-4281.php) , My main goal at least to get going with the trend Whatsapp. Everyone is using Whatsapp 
 and its cheap to communicate using it. Groups are fun and its easier to talk to people on Whatsapp.
 
 Unfortuantely, there is no WhatsApp support for the Nokia Asha 200. So what next? I don't want to be disconnected in the next couple of weeks.
