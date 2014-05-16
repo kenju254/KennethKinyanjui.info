@@ -38,4 +38,4 @@ I will be updating all the books I am currently reading and have already read th
 
 [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/ref=sr_1_2?ie=UTF8&s=books&qid=1260805760&sr=8-2) by Malcom Gladwell.
 
-
+[The Monk Who Sold his Ferrari](http://www.amazon.com/The-Monk-Who-Sold-Ferrari/dp/0062515675) by Robin S. Sharma.
