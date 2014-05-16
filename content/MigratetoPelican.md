@@ -1,7 +1,7 @@
 Title: Finally My Blog on Pelican
 Date: 03-04-2014
 Tags: Pelican, Blog
-Categoyry: Blog,Pelican,Digital Ocean, VPS
+Category: JustSaying
 Slug: migrating-to-Pelican
 Author: Kenneth Kinyanjui
 

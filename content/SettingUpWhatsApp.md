@@ -1,7 +1,7 @@
 Title: Setting Up WhatsApp on Your Computer
 Date: 30-04-2014
 Tags: WhatsApp, Yowsup, Ubuntu, Pidgin, Terminal
-Categoyry: Blog,Pelican,Digital Ocean, VPS
+Category: Programming
 Slug: whatsapp-on-laptop
 Author: Kenneth Kinyanjui
 

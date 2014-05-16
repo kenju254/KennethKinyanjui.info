@@ -16,6 +16,7 @@ THEME = 'flasky'
 SECTIONS = [('Blog', 'index.html'),
            ('Archive', 'archives.html'),
            ('Tags', 'tags.html'),
+           ('Category', 'categories.html'),
            ('About', 'pages/about-me.html'),
            ('Books', 'pages/books.html'),
            ('Projects','pages/projects.html')]

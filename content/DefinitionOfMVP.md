@@ -1,7 +1,7 @@
 Title: Lean Startup Principles 101  What is MVP ?
 Date: 11-05-2014
 Tags: Lean Startup, Lean, MVP , Entrepreneurship
-Categoyry: LeanStartup, Entrepreneurship,
+Category: LeanStartup 
 Slug: definition-of-mvp
 Author: Kenneth Kinyanjui
 
