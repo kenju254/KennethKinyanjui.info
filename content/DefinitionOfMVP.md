@@ -61,10 +61,14 @@ MVP, is simply that version of the product that enables a full turn of the loop 
 With that definition of MVP , I hope many of you who had misconception will understand what this popular term means.
 
 
-Reference
+### Reference
 
 Eric Ries' Lean Startup
 
+With many of my friends wanting a piece of the book I will share my copies that I purchased
+
+1. [PDF](https://www.dropbox.com/sh/fii7dh3mrbuhavs/AABXnnU2DHXvI9OtmJXOQlo-a/The%20Lean%20StartUp.pdf)
+2. [Audio](https://www.dropbox.com/sh/fii7dh3mrbuhavs/AAAMMgSPyVcpCyrsNU8bK7Q_a/Eric%20Ries%20-%20The%20Lean%20Startup%20%28AudioBook%29)
  
 
 
