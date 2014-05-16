@@ -7,3 +7,6 @@ Author: Kenneth Kinyanjui
 Summary: This are the projects I am currently working on
 
 
+Thanks for stopping by, I still haven't updated this part of the site.
+
+Next time you check you will probably find something.
