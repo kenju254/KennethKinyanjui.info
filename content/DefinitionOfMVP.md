@@ -7,9 +7,9 @@ Author: Kenneth Kinyanjui
 
 ## Introduction
 
-7 months ago, I stumbled upon a book, that radically changed my view towards Entrepreneurship. Reveiewed and 
-testimonies made by Startups and Companies that adopted this principle. It has proved to work and more, the 
-reason why If you are an entrepreneur or aspire to being one you should read this book.The book is readily available on [Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) and you can read more
+7 months ago, I stumbled upon a book, that radically changed my view towards Entrepreneurship. Reviewed and 
+testimonies made by Startups and Companies that adopted this principle. It has proved to work and more the 
+reason why if you are already an entrepreneur, or intend to being one you should read the book.The book is readily available on [Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) and you can read more
 about it [here](http://theleanstartup.com). 
 
 ![The Lean Startup](/images/leanstartup.jpg)
@@ -18,7 +18,7 @@ While reading the book, I got to learn a lot of concepts. There is one word that
 
 To clear it out, here is my definition of what MVP means.
 
-## What is MVP ?
+### What does MVP stand for ?
 
 *MVP* clearly stands for *Minimum Viable Product* . It is simply a concept adopted from the [Lean Startup Methodology](http://leanstartup.com).
 
@@ -43,7 +43,27 @@ When the *leap of faith* assumptions are made, we enter a new phase. This phase 
 
 ![Build Measure Lean Loop](/images/build.jpeg)
 
-As explained in the above diagram, this loop is continuos
+As explained in the above diagram, this loop is a continuous process. The process simply involves the following:
+ 
+1. Build a product
+2. Release and test it with Users
+3. Measuring those test and learning from them
+
+After this loop, iteration are made and the product improves gradually.
+
+###  Definition of MVP?
+
+MVP, is simply that version of the product that enables a full turn of the loop with the minimum amount of effort and least amount of development time.
+
+[Ben Lyon](https://www.linkedin.com/in/bmlyon) When asked during the First [Startup Grind Nairobi](http://www.meetup.com/Startup-Grind-Nairobi/) meetup what MVP was he defines it as "The iteration of the product that gets the product market fit qualifies to be the MVP"
+
+
+With that definition of MVP , I hope many of you who had misconception will understand what this popular term means.
+
+
+Reference
+
+Eric Ries' Lean Startup
 
  
 
