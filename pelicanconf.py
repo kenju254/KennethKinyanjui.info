@@ -5,6 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = u'Kenneth Kinyanjui'
 SITENAME = u'Kenneth Kinyanjui'
 SITEURL = ''
+SITEHEADER = ''
+SITESUBTITLE = ''
+
+
 
 TIMEZONE = 'Africa/Nairobi'
 
@@ -16,7 +20,6 @@ THEME = 'flasky'
 SECTIONS = [('Blog', 'index.html'),
            ('Archive', 'archives.html'),
            ('Tags', 'tags.html'),
-           ('Category', 'categories.html'),
            ('About', 'pages/about-me.html'),
            ('Books', 'pages/books.html'),
            ('Projects','pages/projects.html')]
