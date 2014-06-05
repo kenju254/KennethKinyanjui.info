@@ -1,8 +1,8 @@
 Title: Installing  Ubuntu/Debian and ChromeOS on Samsung ChromeBook Series 5
 Date: 06-06-2014
 Tags: ChromeBook, Ubuntu, ChromeOS, Hardware
-Category: ChromeBook, OS, 
-Slug: installing ubuntu on Chromebook
+Category: ChromeBooks
+Slug: installing-ubuntu-on-Chromebook
 Author: Kenneth Kinyanjui
 Summary: Brief overview of moving to Dual Boot
 
