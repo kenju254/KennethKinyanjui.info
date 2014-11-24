@@ -50,7 +50,7 @@ DEFAULT_PAGINATION = 10
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEEDS_RSS = 'feeds/%s.rss.xml'
 
-OUTPUT_PATH = '/output'
+OUTPUT_PATH = 'output'
 
 
 GOOGLE_ANALYTICS_ACCOUNT = 'UA-49607164-1'
