@@ -7,7 +7,7 @@ Author: Kenneth Kinyanjui
 Summary: My good reads
 
 
-Good reads is what I called them. I have not been the type that read books, but something stroke me when I first read the  [Outliers](http://en.wikipedia.org/wiki/Outliers_(book)). I started seeing things in a different perspective and the thrist for more such reads was born. Now reading and coding has been my daily routine. 
+Good reads is what I called them. I have not been the type that read books, but something stroke me when I first read the  [Outliers](http://en.wikipedia.org/wiki/Outliers_(book)). I started seeing things in a different perspective and the thirst for more such reads was born. Now reading and coding has been my daily routine. 
 
 I will be updating all the books I am currently reading and have already read that I think you should also read. The links lead to Amazon page and you can get the book easily from there.
 
@@ -15,9 +15,15 @@ I will be updating all the books I am currently reading and have already read th
 
 ##Business, Marketing , Starups
 
-[Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-ebook/dp/B004J4XGN6/ref=tmm_kin_title_0?ie=UTF8&m=A1NBCVVM1MRWGW&qid=1315901280&sr=8-1) by Eric Ries. 
+[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-ebook/dp/B004J4XGN6/ref=tmm_kin_title_0?ie=UTF8&m=A1NBCVVM1MRWGW&qid=1315901280&sr=8-1) by Eric Ries. 
 
 [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?s=books&ie=UTF8&qid=1397367937&sr=1-1&keywords=Rework) by Jason Fried & David Heinemeier Hansson.
+
+[Running Lean](http://www.amazon.com/Running-Lean-Iterate-Works-Series-ebook/dp/B006UKFFE0) by Ash Maurya
+
+[The Facebook Effect: The Inside Story of the Company That Is Connecting the World](http://www.amazon.com/The-Facebook-Effect-Company-Connecting/dp/1439102120) by David Kirkpatrick
+
+[The Startup of You: Adapt to the future, Invest in Yourself, and Treansfrom your Career](http://www.amazon.com/The-Start-up-You-Yourself-Transform-ebook/dp/B0050DIWHU) by Reid Hoffman & Ben Casnocha
 
 ##Software Engineering Practices
 
@@ -25,7 +31,7 @@ I will be updating all the books I am currently reading and have already read th
 
 ##Python Programming
 
-[Learn Python the Hard Way](http://learnpythonthehardway.org/)by Zed. A Shaw.
+[Learn Python the Hard Way](http://learnpythonthehardway.org/) by Zed. A Shaw.
 
 [Byte of Python](http://www.swaroopch.com/notes/python/) by Swaroop C H
 
